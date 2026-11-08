@@ -167,6 +167,7 @@ generated: true
 | MIM.FM.009 | Поверхностная геймификация | Добавление игровых элементов (баллы, бейджи, рейтинги) без изменения дидактики. Подменяет внутреннюю мотивацию внешней, не улучшая обучение. | active |
 | MIM.FM.010 | Elevate Before Subordinate | — | active |
 | MIM.FM.011 | Policy Treated as Resource | — | active |
+| MIM.FM.012 | Classifier Exercise Set Drifts from Answer Taxonomy | Набор ситуаций устаревает молча при перестройке таксономии ответов; ловится сверкой «ситуация × класс». | draft |
 
 ## SoTA Annotations
 
