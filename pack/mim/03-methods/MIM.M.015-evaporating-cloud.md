@@ -131,4 +131,4 @@ Injection: [что сделать иначе]
 
 ---
 
-*Pack: MIM | Kind: M | Source: WP-313 TOC research 2026-05-13*
+*Pack: MIM | Kind: M | Source: WP-313 TOC research 2026-05-13 | English terms approved 2026-11-09 (WP-620)*
