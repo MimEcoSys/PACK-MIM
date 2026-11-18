@@ -138,6 +138,7 @@ generated: true
 | MIM.M.035 | VDV grounding for abstract concept teaching | — | draft |
 | MIM.M.036 | Recall Block Before New Content | Design pattern for AI-generated learning guides: insert a 2-3 concept recall block at the start of new content, auto-populated from previous session metadata. Activates spaced retrieval practice without manual annotation. | active |
 | MIM.M.037 | Пологий вход для нового эмоционального состояния | При введении нового эмоционального состояния в обучающую программу — сначала показать мост из уже знакомых участнику понятий (metamaterial), не давать новое состояние напрямую как «боевой» контент. | draft |
+| MIM.M.038 | Вопрос об изменении физического мира при постановке цели сессии | При постановке цели рабочей сессии с ИИ-агентом обязательно задавать вопрос: что изменится в физическом мире, когда рабочий продукт будет готов. | draft |
 
 ## Work Products
 
